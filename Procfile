@@ -1,1 +1,1 @@
-web: ./node_modules/.bin/serve -s build
+web: serve -s build
