@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pricing-model-frontend/static/css/main.aef4cf7e.css",
-    "main.js": "/pricing-model-frontend/static/js/main.f4e5adaf.js",
+    "main.js": "/pricing-model-frontend/static/js/main.3af83f78.js",
     "static/media/SampleProductImage.svg": "/pricing-model-frontend/static/media/SampleProductImage.bb9d56d9bcf256c3233a9845ff48d82e.svg",
     "static/media/Settings.svg": "/pricing-model-frontend/static/media/Settings.25d864c3410b681126951e64306b76bb.svg",
     "static/media/Integrations.svg": "/pricing-model-frontend/static/media/Integrations.f338067782daf3f3f31bef1aaa877303.svg",
@@ -20,10 +20,10 @@
     "index.html": "/pricing-model-frontend/index.html",
     "static/media/Pricing.svg": "/pricing-model-frontend/static/media/Pricing.80a20c39cca4f6990e23ba2b8b735d09.svg",
     "main.aef4cf7e.css.map": "/pricing-model-frontend/static/css/main.aef4cf7e.css.map",
-    "main.f4e5adaf.js.map": "/pricing-model-frontend/static/js/main.f4e5adaf.js.map"
+    "main.3af83f78.js.map": "/pricing-model-frontend/static/js/main.3af83f78.js.map"
   },
   "entrypoints": [
     "static/css/main.aef4cf7e.css",
-    "static/js/main.f4e5adaf.js"
+    "static/js/main.3af83f78.js"
   ]
 }
